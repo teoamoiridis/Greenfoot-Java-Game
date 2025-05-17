@@ -1,0 +1,12 @@
+# Ignore Greenfoot's internal files and directories
+.greenfoot/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore BlueJ files
+*.ctxt
+
+# Ignore log or backup files
+*.log
+*.bak
